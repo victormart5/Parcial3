@@ -2,4 +2,4 @@
 **Autor:** Victor Martínez Alcón
 ## Historial de ramas y commits
 
-![Historial de ramas y commits](captura.png)
+![Historial de ramas y commits](Captura.png)
